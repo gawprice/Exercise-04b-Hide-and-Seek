@@ -75,7 +75,7 @@ limit_bottom = 600
 script = ExtResource( 4 )
 
 [node name="Turret" parent="Enemy_Container" instance=ExtResource( 2 )]
-position = Vector2( 868.403, 24.2458 )
+position = Vector2( 868.733, 17.6505 )
 rotation = 3.14159
 
 [node name="Turret2" parent="Enemy_Container" instance=ExtResource( 2 )]
